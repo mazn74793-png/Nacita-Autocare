@@ -1,0 +1,6 @@
+{
+  "name": "Nacita Autocare",
+  "description": "ناسيتا أوتوكير - وكيل معتمد لأفضل إطارات السيارات والورشة المتنقلة ومراكز الخدمة المتخصصة في مصر.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
